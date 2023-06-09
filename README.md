@@ -1,6 +1,6 @@
 ### Hi I'm Alief Arrafi 👋
 
-<img align="right" src="https://raw.githubusercontent.com/ronypermadi/ronypermadi/main/undraw_programming.png" width="500" height="300" style="transform: rotateY(180deg);" />
+<img align="right" src="https://raw.githubusercontent.com/hr77scu/hr77scu/main/undraw_programming.png" width="500" height="300" style="transform: rotateY(180deg);" />
 
 ---
 
@@ -47,8 +47,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ronypermadi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronypermadi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/hr77scu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hr77scu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hr77scu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
