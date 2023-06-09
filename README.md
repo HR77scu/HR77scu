@@ -1,6 +1,6 @@
 ### Hi I'm Alief Arrafi 👋
 
-<img align="right" src="https://raw.githubusercontent.com/hr77scu/hr77scu/main/undraw_programming.png" width="500" height="300" style="transform: rotateY(180deg);" />
+<img align="right" src="[https://raw.githubusercontent.com/hr77scu/hr77scu/main/undraw_programming.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvWVnES_BWlUsP-FxfJw3QGkcA8jm81E-otcWcp8f7g&s)" width="500" height="300" style="transform: rotateY(180deg);" />
 
 ---
 
