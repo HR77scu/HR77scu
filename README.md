@@ -1,6 +1,6 @@
 ### Hi I'm Alief Arrafi 👋
 
-<img align="right" src="https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=866&q=80" width="500" height="300" style="transform: rotateY(180deg);" />
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e470opp0hunh001nfccua25n7r0lcd4vttakbpzhi00&ep=v1_gifs_search&rid=200.webp&ct=g" width="500" height="300" style="transform: rotateY(180deg);" />
 
 ---
 
