@@ -59,7 +59,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linktr.ee/rafialief"><img src="https://img.shields.io/badge/-me.rionapp.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linktr.ee/rafialief"><img src="https://img.shields.io/badge/-linktr.ee/rafialief-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
 -----
