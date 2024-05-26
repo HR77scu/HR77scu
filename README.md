@@ -56,10 +56,11 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me Or Support
 
 <p align="center">
-<a href="https://linktr.ee/rafialief"><img src="https://img.shields.io/badge/-linktr.ee/rafialief-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linktr.ee/rafialief" target="_blank" ><img src="https://img.shields.io/badge/-linktr.ee/rafialief-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://saweria.co/seishin77scu" target="_blank"><img src="https://img.shields.io/badge/-Saweria/rafialief-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
 -----
